@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-# Author: Moez Kilani
+# Authors: Moez Kilani and Ngagne Diop
 # Project: MURDASP
 # Date: April 2021
 # Last edited: June 2021
